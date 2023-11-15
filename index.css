@@ -2,7 +2,13 @@ h1{
     color: #00ff00;
 }
 p{
-    color: #09f6;
+    color: black;
 }
 
 /* rgb(red content, green content, blue content) */
+#select{
+    background: lightcoral;
+}
+.underline{
+    text-decoration: underline;
+}
