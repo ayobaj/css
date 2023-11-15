@@ -1,0 +1,10 @@
+table{
+    background: aquamarine;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: pink;
+    border-width: 5px;
+    border-style: dashed;
+    
+    /* the border properties can also be written as border: 2px dashed blue; */
+}
